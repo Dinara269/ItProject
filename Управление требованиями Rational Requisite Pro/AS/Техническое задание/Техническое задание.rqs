@@ -1,0 +1,18 @@
+[Project]
+Owner=Unknown
+Name=Техническое задание
+GUID={412A0942-3D8F-4D92-99A4-9CE780EE653E}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=Представлены требования к автоматизированной системе
+Owner Key=1
+Revision number=1.0009
+Prefix=
+NbrRequirements=26
+Directory=C:\Program Files (x86)\Rational\RequisitePro\TZ\AS\Техническое задание\Техническое задание.rqs
+Key=1
+
+[Application]
+Data file version=1.0040
+Program Version=9.100.0.1
+
